@@ -338,17 +338,3 @@ para uma ferramenta pessoal de produtividade para desenvolvedores.
 
 Feito por **João Matheus** como projeto de estudo e prática com Deno, Hono e
 APIs REST.
-
-````
-Uma versão mais “bonita” para GitHub também poderia ter badges no topo:
-
-```md
-![Deno](https://img.shields.io/badge/Deno-000?style=for-the-badge&logo=deno&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
-````
-
-Eu colocaria esses badges logo abaixo do título, assim:
-
-```md
-```
