@@ -1,4 +1,4 @@
-import { Hono } from "hono";
+import { Hono } from "@hono/hono";
 import { itemRoutes } from "./items/item.routes.ts";
 
 export const app = new Hono();
